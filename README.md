@@ -73,6 +73,12 @@ Actuellement en alternance chez **E2-CAD**, je travaille sur des missions d'anal
 
 ---
 
+## 💖 Me soutenir
+Si vous aimez mes projets et souhaitez soutenir mon travail :
+👉 **[Offrir un café sur Buy Me a Coffee](https://buymeacoffee.com/blackout003)**
+
+---
+
 ## 📊 Statistiques GitHub
 
 <p align="center">
